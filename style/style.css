@@ -22,10 +22,23 @@ body{
 .box
 {
     background-color: white;
-    height: 330px;
-    width: 520px;
+    height: 400px;
+    width: 540px;
+    align-self: center;
+    border-radius: 5px;
+    align-content: center;
 }
-h3
+img{
+    border-radius: 5px;
+}
+font
 {
     color: #005452;
+}
+button
+{
+    color: white;
+    background-color: #005452;
+    border-radius: 5px;
+    
 }
